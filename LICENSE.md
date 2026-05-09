@@ -1,4 +1,4 @@
-
+Alfred for macOS custom Service: window-management & quick-launch offers the most advanced Alfred for macOS service, with window-management and quick-launch. Ideal for macOS power
 
 
 
